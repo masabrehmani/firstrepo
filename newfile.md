@@ -1,4 +1,4 @@
-This is a read me file
+This is not a read me file
 
 We are in Git 101 session 
 
