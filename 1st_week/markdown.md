@@ -10,7 +10,10 @@
 [8- Links](#8--links-and-hyperlinks)\
 [9- Figure links](#9--images-and-figures-with-link)\
 [10- Code/code blocks](#10--adding-code-or-code-block)\
-[11- Tables](#11--adding-tables)
+[11- Tables](#11--adding-tables)\
+[12- installing extensions](#12--install-extensions)\
+[13- Text Color](#13--how-to-change-color)\
+[14- Adding math equations](#14--adding-equations-in-md)
 
 
 
@@ -170,7 +173,7 @@ print(z)
 
 
 
-# 13- Install extensions
+# 12- Install extensions
 
 **Sample Text**
 
@@ -199,7 +202,28 @@ Column A | Column B | Column C
  A2 | B2 | C2
  A3 | B3 | C3
 
- 
+# 13- How to change color.
+
+<span style='color:red'>
+This text colot is red.
+</span>
 
 
 
+<span style='color:blue'>
+This text color is blue
+yes i am saying correct it's blue.
+</span>
+
+
+# 14- Adding equations in MD.
+
+> In-line Math
+
+$code_{suffix}^{power}$
+
+>Math Block
+
+$$
+\int_0^\infty \frac{x^3}{e^x-1}\, dx=\frac{\pi^4}{15}
+$$
